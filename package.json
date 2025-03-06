@@ -1,0 +1,19 @@
+{
+  "name": "info.plugin.close",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "info.plugin.close",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
